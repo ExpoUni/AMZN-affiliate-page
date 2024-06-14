@@ -90,8 +90,14 @@ main {
 }
 
 .product p {
-    margin: 0.5em 0;
+    margin: 0.2em 0;
     font-weight: bold;
+}
+
+.brand_name{
+    font-style: italic;
+    font-size: 150%;
+    color: rgb(255, 0, 195);
 }
 
 .product .description {
